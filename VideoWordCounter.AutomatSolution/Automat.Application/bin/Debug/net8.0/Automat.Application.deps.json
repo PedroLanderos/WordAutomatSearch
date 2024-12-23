@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Automat.Application/1.0.0": {
+        "dependencies": {
+          "Automat.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Automat.Application.dll": {}
+        }
+      },
+      "Automat.Domain/1.0.0": {
+        "runtime": {
+          "Automat.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Automat.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Automat.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

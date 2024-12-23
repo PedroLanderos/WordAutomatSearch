@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Presentation\\Automat.Presentation.csproj": {}
+  },
+  "projects": {
+    "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Application\\Automat.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Application\\Automat.Application.csproj",
+        "projectName": "Automat.Application",
+        "projectPath": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Application\\Automat.Application.csproj",
+        "packagesPath": "C:\\Users\\lande\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Domain\\Automat.Domain.csproj": {
+                "projectPath": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Domain\\Automat.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Domain\\Automat.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Domain\\Automat.Domain.csproj",
+        "projectName": "Automat.Domain",
+        "projectPath": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Domain\\Automat.Domain.csproj",
+        "packagesPath": "C:\\Users\\lande\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Infrastructure\\Automat.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Infrastructure\\Automat.Infrastructure.csproj",
+        "projectName": "Automat.Infrastructure",
+        "projectPath": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Infrastructure\\Automat.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\lande\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Application\\Automat.Application.csproj": {
+                "projectPath": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Application\\Automat.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Presentation\\Automat.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Presentation\\Automat.Presentation.csproj",
+        "projectName": "Automat.Presentation",
+        "projectPath": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Presentation\\Automat.Presentation.csproj",
+        "packagesPath": "C:\\Users\\lande\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Infrastructure\\Automat.Infrastructure.csproj": {
+                "projectPath": "D:\\Code\\contadorpalabras\\back\\VideoWordCounter.AutomatSolution\\Automat.Infrastructure\\Automat.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
