@@ -1,0 +1,12 @@
+D:\Code\contadorpalabras\back\VideoWordCounter.TranscriptionSolution\TranscriptionApi.Domain\bin\Debug\net8.0\TranscriptionApi.Domain.deps.json
+D:\Code\contadorpalabras\back\VideoWordCounter.TranscriptionSolution\TranscriptionApi.Domain\bin\Debug\net8.0\TranscriptionApi.Domain.dll
+D:\Code\contadorpalabras\back\VideoWordCounter.TranscriptionSolution\TranscriptionApi.Domain\bin\Debug\net8.0\TranscriptionApi.Domain.pdb
+D:\Code\contadorpalabras\back\VideoWordCounter.TranscriptionSolution\TranscriptionApi.Domain\obj\Debug\net8.0\TranscriptionApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\contadorpalabras\back\VideoWordCounter.TranscriptionSolution\TranscriptionApi.Domain\obj\Debug\net8.0\TranscriptionApi.Domain.AssemblyInfoInputs.cache
+D:\Code\contadorpalabras\back\VideoWordCounter.TranscriptionSolution\TranscriptionApi.Domain\obj\Debug\net8.0\TranscriptionApi.Domain.AssemblyInfo.cs
+D:\Code\contadorpalabras\back\VideoWordCounter.TranscriptionSolution\TranscriptionApi.Domain\obj\Debug\net8.0\TranscriptionApi.Domain.csproj.CoreCompileInputs.cache
+D:\Code\contadorpalabras\back\VideoWordCounter.TranscriptionSolution\TranscriptionApi.Domain\obj\Debug\net8.0\TranscriptionApi.Domain.sourcelink.json
+D:\Code\contadorpalabras\back\VideoWordCounter.TranscriptionSolution\TranscriptionApi.Domain\obj\Debug\net8.0\TranscriptionApi.Domain.dll
+D:\Code\contadorpalabras\back\VideoWordCounter.TranscriptionSolution\TranscriptionApi.Domain\obj\Debug\net8.0\refint\TranscriptionApi.Domain.dll
+D:\Code\contadorpalabras\back\VideoWordCounter.TranscriptionSolution\TranscriptionApi.Domain\obj\Debug\net8.0\TranscriptionApi.Domain.pdb
+D:\Code\contadorpalabras\back\VideoWordCounter.TranscriptionSolution\TranscriptionApi.Domain\obj\Debug\net8.0\ref\TranscriptionApi.Domain.dll

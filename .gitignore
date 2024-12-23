@@ -1,0 +1,18 @@
+# Archivos de Visual Studio
+.vs/
+.idea/
+.vscode/
+
+# Archivos de configuración específicos del usuario
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+
+# Archivos temporales de Visual Studio
+.vsidx
+
+# Ignorar todo el contenido dentro de la carpeta VoskModels
+VideoWordCounter.TranscriptionSolution/TranscriptionApi.Infrastructure/VoskModels/
+VideoWordCounter.TranscriptionSolution/TranscriptionApi.Infrastructure/VoskModels/**

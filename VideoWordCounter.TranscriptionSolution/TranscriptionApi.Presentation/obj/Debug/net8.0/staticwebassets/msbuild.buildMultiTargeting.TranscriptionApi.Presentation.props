@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TranscriptionApi.Presentation.props" />
+</Project>

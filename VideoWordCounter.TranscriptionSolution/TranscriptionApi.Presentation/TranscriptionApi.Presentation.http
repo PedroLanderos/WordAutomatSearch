@@ -1,0 +1,6 @@
+@TranscriptionApi.Presentation_HostAddress = http://localhost:5261
+
+GET {{TranscriptionApi.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

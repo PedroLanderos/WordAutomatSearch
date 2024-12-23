@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TranscriptionApi.Infrastructure/1.0.0": {
+        "dependencies": {
+          "TranscriptionApi.Application": "1.0.0"
+        },
+        "runtime": {
+          "TranscriptionApi.Infrastructure.dll": {}
+        }
+      },
+      "TranscriptionApi.Application/1.0.0": {
+        "dependencies": {
+          "TranscriptionApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TranscriptionApi.Application.dll": {}
+        }
+      },
+      "TranscriptionApi.Domain/1.0.0": {
+        "runtime": {
+          "TranscriptionApi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TranscriptionApi.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TranscriptionApi.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TranscriptionApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
